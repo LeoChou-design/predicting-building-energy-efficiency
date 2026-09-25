@@ -1,0 +1,11 @@
+# Third-party reference PDFs (copyright belongs to publishers, not redistributed)
+# See references/README.md for the full bibliography and links
+references/*.pdf
+
+# Python
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+
+# OS
+desktop.ini

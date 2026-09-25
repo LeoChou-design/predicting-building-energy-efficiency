@@ -1,0 +1,17 @@
+Target,Model,Feature,Importance
+Y1,LightGBM,X1,759
+Y1,LightGBM,X8,485
+Y1,LightGBM,X7,458
+Y1,LightGBM,X6,239
+Y1,LightGBM,X3,169
+Y1,LightGBM,X4,14
+Y1,LightGBM,X2,0
+Y1,LightGBM,X5,0
+Y2,LightGBM,X1,746
+Y2,LightGBM,X8,547
+Y2,LightGBM,X6,374
+Y2,LightGBM,X7,338
+Y2,LightGBM,X3,119
+Y2,LightGBM,X4,16
+Y2,LightGBM,X2,0
+Y2,LightGBM,X5,0
